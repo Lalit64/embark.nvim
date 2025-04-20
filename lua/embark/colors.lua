@@ -28,7 +28,7 @@ local embark = {
 	highlight = "#91DDFF", -- highlight color
 	disabled = "#7676FF", -- disabled elements
 	cursor = "#63F2F1", -- cursor color
-	accent = "#A1EFD3", -- accent color
+	accent = "#78A8FF", -- accent color
 
 	error = "#F02E6E", -- error color (red)
 	link = "#7FE9C3", -- link color (greenish)
