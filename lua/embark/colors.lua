@@ -25,9 +25,9 @@ local embark = {
 	orange = "#F2B482", -- orange accent
 
 	text = "#CBE3E7", -- text color (same as fg)
-	highlight = "#91DDFF", -- highlight color
-	disabled = "#7676FF", -- disabled elements
-	cursor = "#63F2F1", -- cursor color
+	highlight = "#585273", -- highlight color
+	disabled = "#2D2B40", -- disabled elements
+	cursor = "#CBE3E7", -- cursor color
 	accent = "#78A8FF", -- accent color
 
 	error = "#F02E6E", -- error color (red)
