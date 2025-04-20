@@ -1,6 +1,6 @@
 local embark = {
 	-- Space Colors
-	bg = "#100E23", -- darkest background
+	bg = "#1E1C31", -- darkest background
 	bg_alt = "#1E1C31", -- alternate background
 	contrast = "#2D2B40", -- contrast background
 	selection = "#3E3859", -- selection background
