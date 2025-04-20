@@ -1,34 +1,37 @@
 local embark = {
-	white = "#EEFFFF",
-	gray = "#a1abe0",
-	black = "#000000",
-	red = "#ff757f",
-	green = "#2df4c0",
-	yellow = "#ffc777",
-	paleblue = "#d6e7f0",
-	cyan = "#b994f1",
-	blue = "#04d1f9",
-	purple = "#b4a4f4",
-	orange = "#f67f81",
-	pink = "#ecb2f0",
+	-- Space Colors
+	bg = "#100E23", -- darkest background
+	bg_alt = "#1E1C31", -- alternate background
+	contrast = "#2D2B40", -- contrast background
+	selection = "#3E3859", -- selection background
+	active = "#585273", -- active elements
+	border = "#585273", -- border color
 
-	bg = "#212337",
-	bg_alt = "#1B1E2B",
-	fg = "#e4f3fa",
-	text = "#757dac",
-	comments = "#7486d6",
-	selection = "#403c64",
-	contrast = "#1b1c2b",
-	active = "#414863",
-	border = "#414863",
-	line_numbers = "#596399",
-	highlight = "#a1abe0",
-	disabled = "#515772",
-	cursor = "#5cb4fc",
-	accent = "#a3ace1",
+	-- Astral Colors
+	gray = "#8A889D", -- gray tone
+	white = "#CBE3E7", -- light tone, used for foreground
+	fg = "#CBE3E7", -- foreground text
+	comments = "#8A889D", -- comments color
+	line_numbers = "#8A889D", -- line numbers
 
-	error = "#FF5370",
-	link = "#80CBC4",
+	-- Nebula Colors
+	red = "#F02E6E", -- red accent
+	green = "#7FE9C3", -- green accent
+	yellow = "#FFE6B3", -- yellow accent
+	pink = "#F48FB1", -- pink accent
+	cyan = "#ABF8F7", -- cyan accent
+	blue = "#78A8FF", -- blue accent
+	purple = "#D4BFFF", -- purple accent
+	orange = "#F2B482", -- orange accent
+
+	text = "#CBE3E7", -- text color (same as fg)
+	highlight = "#91DDFF", -- highlight color
+	disabled = "#7676FF", -- disabled elements
+	cursor = "#63F2F1", -- cursor color
+	accent = "#A1EFD3", -- accent color
+
+	error = "#F02E6E", -- error color (red)
+	link = "#7FE9C3", -- link color (greenish)
 
 	none = "NONE",
 }
