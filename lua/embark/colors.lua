@@ -15,7 +15,7 @@ local embark = {
 	line_numbers = "#8A889D", -- line numbers
 
 	-- Nebula Colors
-	red = "#F02E6E", -- red accent
+	red = "#F48FB1", -- red accent
 	green = "#A1EFD3", -- green accent
 	yellow = "#FFE6B3", -- yellow accent
 	pink = "#F48FB1", -- pink accent
