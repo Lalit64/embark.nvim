@@ -16,22 +16,22 @@ local embark = {
 
 	-- Nebula Colors
 	red = "#F02E6E", -- red accent
-	green = "#7FE9C3", -- green accent
+	green = "#A1EFD3", -- green accent
 	yellow = "#FFE6B3", -- yellow accent
 	pink = "#F48FB1", -- pink accent
 	cyan = "#ABF8F7", -- cyan accent
-	blue = "#78A8FF", -- blue accent
+	blue = "#91DDFF", -- blue accent
 	purple = "#D4BFFF", -- purple accent
 	orange = "#F2B482", -- orange accent
 
 	text = "#CBE3E7", -- text color (same as fg)
-	highlight = "#585273", -- highlight color
+	highlight = "#2D2B40", -- highlight color
 	disabled = "#2D2B40", -- disabled elements
 	cursor = "#CBE3E7", -- cursor color
 	accent = "#78A8FF", -- accent color
 
-	error = "#F02E6E", -- error color (red)
-	link = "#7FE9C3", -- link color (greenish)
+	error = "#F48FB1", -- error color (red)
+	link = "#A1EFD3", -- link color (greenish)
 
 	none = "NONE",
 }
